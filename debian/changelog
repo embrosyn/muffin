@@ -1,3 +1,9 @@
+muffin (3.8.3-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 21 Sep 2018 21:30:23 +0200
+
 muffin (3.8.3) tara; urgency=medium
 
   * Re-add gsettings key org.cinnamon.muffin button-layout
