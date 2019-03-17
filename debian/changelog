@@ -184,6 +184,12 @@ muffin (4.0.7) unstable; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Thu, 28 Mar 2019 11:13:30 +0000
 
+muffin (4.0.6-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Mon, 18 Mar 2019 00:07:20 +0100
+
 muffin (4.0.6) tessa; urgency=medium
 
   * Re-add gsettings key org.cinnamon.muffin button-layout
